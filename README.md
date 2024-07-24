@@ -5,4 +5,4 @@
 -*IFC - Campus Araquari*
 
 ## Subtítulo
-"Em casa de ferreiro,o espeto é de pau"
+"Creio no riso e nas lágrimas como antídotos contra o ódio e o terror."
