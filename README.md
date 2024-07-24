@@ -5,4 +5,4 @@
 -*IFC - Campus Araquari*
 
 ## Subtítulo
-"Creio no riso e nas lágrimas como antídotos contra o ódio e o terror."
+> "Creio no riso e nas lágrimas como antídotos contra o ódio e o terror."
